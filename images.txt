@@ -1,2 +1,3 @@
-flare
+alpine
+kasmweb/ngginx:1.25.3
 soulteary/docker-flare
