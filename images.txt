@@ -1,3 +1,5 @@
-alpine
-kasmweb/ngginx:1.25.3
-soulteary/docker-flare
+nginx
+#支持私库
+hub.docker.com/r/soulteary/flare
+xhofe/alist:latest
+#支持指定架构
