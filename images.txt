@@ -1,5 +1,3 @@
-nginx
-#支持私库
-hub.docker.com/r/soulteary/flare
-xhofe/alist:latest
-#支持指定架构
+flare
+kasmweb/nginx:1.25.3
+soulteary/flare
