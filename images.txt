@@ -1,3 +1,1 @@
-flare
-kasmweb/nginx:1.25.3
 soulteary/flare
